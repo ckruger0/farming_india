@@ -1,2 +1,1 @@
-# farming_india
-Repo for PC013 - Solutions for farmers in India
+# PC013: Bloomberg - Farming in India
